@@ -9,8 +9,13 @@ Build
 ===========
 mvn package 
    
+Run
+===========
 ./run.sh to see the options similar to the followings
 
+
+Usage
+===========
 usage: java -jar DocearPdfInspector [OPTION]... [FILE]...
             Inspect and extract information of PDF file(s) and return them
             as a CSV file or on the command line. Files may contain
