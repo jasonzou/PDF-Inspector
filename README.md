@@ -18,13 +18,13 @@ Usage
 ===========
 usage: java -jar DocearPdfInspector [OPTION]... [FILE]...
 
-            Inspect and extract information of PDF file(s) and return them
+   Inspect and extract information of PDF file(s) and return them
             
-            as a CSV file or on the command line. Files may contain wildcards.
+   as a CSV file or on the command line. Files may contain wildcards.
             
-            Selected fields are returned in the following order (if
+   Selected fields are returned in the following order (if
             
-            included): name, hash, title, text, time
+   included): name, hash, title, text, time
             
  -delimiter <arg>   use a specific delimiter String, using "|" by default
  
