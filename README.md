@@ -4,7 +4,11 @@ It is a fork from PDF-Inspector of Docear project.
 
 Installation
 =============
-mvn package to build the PDF-Inspector
+
+Build
+===========
+mvn package 
+   
 ./run.sh to see the options similar to the followings
 
 usage: java -jar DocearPdfInspector [OPTION]... [FILE]...
