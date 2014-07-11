@@ -21,10 +21,6 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-import sun.reflect.ReflectionFactory;
-
-import com.sun.xml.internal.bind.marshaller.XMLWriter;
-
 public class XMLReader {
 	
 	private TreeMap<PdfTextEntity, StringBuilder> map = new TreeMap<PdfTextEntity, StringBuilder>();
