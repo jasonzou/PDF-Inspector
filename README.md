@@ -21,6 +21,7 @@ as a CSV file or on the command line. Files may contain wildcards.
 Selected fields are returned in the following order (if included): name, hash, title, text, time
 
 Usage: 
+
      java -jar DocearPdfInspector [OPTION]... [FILE]...
             
      -delimiter <arg>   use a specific delimiter String, using "|" by default
